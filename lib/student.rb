@@ -39,7 +39,7 @@ def save
 end 
 
 def self.create
-  student = 
+  student = Student.new
   
 
 
